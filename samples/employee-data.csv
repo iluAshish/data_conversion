@@ -1,0 +1,11 @@
+Employee ID,First Name,Last Name,Email,Department,Hire Date,Salary,Status
+EMP001,John,Smith,john.smith@company.com,Engineering,2023-01-15,75000,Active
+EMP002,Sarah,Johnson,sarah.johnson@company.com,Marketing,2022-11-08,65000,Active
+EMP003,Michael,Davis,michael.davis@company.com,Sales,2023-03-22,70000,Active
+EMP004,Emily,Brown,emily.brown@company.com,HR,2022-09-12,60000,Active
+EMP005,David,Wilson,david.wilson@company.com,Engineering,2023-05-30,80000,Active
+EMP006,Lisa,Garcia,lisa.garcia@company.com,Finance,2022-12-01,72000,Active
+EMP007,Robert,Martinez,robert.martinez@company.com,Operations,2023-02-14,68000,Active
+EMP008,Jennifer,Anderson,jennifer.anderson@company.com,Marketing,2023-04-03,63000,Active
+EMP009,William,Taylor,william.taylor@company.com,Engineering,2022-10-25,78000,Active
+EMP010,Michelle,Thomas,michelle.thomas@company.com,Sales,2023-06-18,71000,Active
